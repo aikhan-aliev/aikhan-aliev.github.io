@@ -1,5 +1,8 @@
-$accent-color: #355cc9;
-
+$accent-color: #e4b32b; // CS2 gold/yellow accent
+$bg-dark: #181a1b;
+$card-bg: #23272a;
+$text-main: #f6f6f6;
+$text-secondary: #e4b32b;
 * {
 	box-sizing: border-box;
 }
