@@ -1,5 +1,15 @@
-# CSS-3D-clickable-flip-cards
+# Counter Strike Weapons – 3D Flip Cards
 
-Your task is to work on **CSS 3D clickable flip cards**. Here you can find the sample **HTML** (structure) and **CSS** (SCSS) styling. To visualize the code you can use the online IDE: [CodePen (https://codepen.io).](https://codepen.io)  Do not forget to change the CSS Preprocessor setting to SCSS (see the settings.png).
+A simple 3D flip card UI built using HTML and SCSS to showcase the main features of the CS weapons.
 
-We need you to read/understand the code and to use your creativity to design your **own version** of flip cards to promote/advertise a product. **Good Luck!**
+## Features
+- 3D card flip on hover
+- Clean and responsive design
+- Easy to customize
+
+## How to use
+1. Open `index.html` in a browser
+2. Use [CodePen](https://codepen.io) and set the CSS preprocessor to SCSS
+3. You can deploy via GitHub Pages or any static hosting
+
+## 👤 Created for the Lime-Light Internship
